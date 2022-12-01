@@ -1,6 +1,6 @@
 {
   "name": "passsing-props",
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
