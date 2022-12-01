@@ -1,0 +1,5 @@
+ul > li{
+    border: 1px solid blue;
+    width: 50%;
+    margin: 10px auto;
+}
